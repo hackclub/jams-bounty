@@ -3,7 +3,7 @@ Teaching coding is hard. Running engaging Hack Club meetings is even harder. By 
 
 Work with the team at HQ to contribute a jam and **we'll pay you $200** for it. it'll be used by thousands of Hack Clubbers around the world!
 
-**What is a Jam?**
+### What is a Jam?
 
 The goal is to build a highly curated list of quality projects for varying technical abilities. The content is high quality, slides, videos within a beautiful page that's easy to filter... They're real projects that can be completed in under 1 hour, are very visual, and have clear paths for continued hacking. Members should be inspired to keep hacking on the project after the session, not left feeling stuck without knowing what to do next. Everyone's result is different
 
@@ -11,7 +11,11 @@ The goal is to build a highly curated list of quality projects for varying techn
 ** example?
 
 ### Here's how to get started:
-* Make a pull request into (folder)
+1. Propose a Jam by making a pull request to this folder, following this [file format](/). Here's a list of Jams that we are looking for, but feel free to submit other ideas too!
+2. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
+3. Once accepted, work with the team to write the workshop by XYZ.
+4. Kaching!
+
 **Submission requirements:**
 
 _Updated by <StaticMention username="matthew" avatar="https://cloud-dl8z4zly8.vercel.app/t0266frgm-u4qak9srw-cf4e2e522a71-512" link="https://matthewstanciu.me/" /> on 10/29/2020. Starting today, all newly-submitted workshops will have to follow these new requirements. [Click here](https://hack.af/workshop-bounty-original) to see the previous version of this announcement._
