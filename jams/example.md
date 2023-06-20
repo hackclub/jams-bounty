@@ -6,8 +6,8 @@ Requirements: Some basic understanding of HTML, CSS, and JavaScript. No experien
 Language used: HTML, CSS, and Javascript
 
 ### Breakdown
-- Fork a replit starter with necessary materials
-- Building out front end of the website with an input bar and button
-- Set up free google search API
-- Write JavaScript to display results from API on the page
-- Success!!!
+- Set up: Fork a replit starter with necessary materials
+- Part 1: Building out front end of the website with an input bar and button
+- Part 2: Set up free google search API
+- Part 3: Write JavaScript to display results from API on the page
+- Success!!! Now you've got a search engine!
