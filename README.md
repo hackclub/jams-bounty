@@ -13,15 +13,15 @@ The goal is to build a highly curated list of quality projects for varying techn
 
 ### Here's how to get started:
 *We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request to this folder, following this [file format](/). Here's a list of Jams that we are looking for, but feel free to submit other ideas too!
+1. Propose a Jam by making a pull request to this folder, following this [file format](/). [Here's a list](#List_of_Jam_topics) of Jams that we are looking for, but feel free to submit other ideas too!
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work with the team to write the Jam, make a presentation and film a short video by XYZ.
 5. Kaching!
 
-**Submission requirements:**
-
 ### List of Jam topics:
 * 
+
+**Submission requirements:**
 
 - You must be a club leader or an active community member in order to submit a workshop.
 - Your Jam can be original or a remix of an existing workshop with clear improvements.
