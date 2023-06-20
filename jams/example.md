@@ -4,6 +4,7 @@
 Outcome: In under an hour, build your own "Google" 
 Requirements: Some basic understanding of HTML, CSS, and JavaScript. No experience with APIs needed. Beginner friendly
 Language used: HTML, CSS, and Javascript
+Customization opportunity: change what your own site looks like with CSS, and filter content with JavaScript!
 
 ### Breakdown
 - Set up: Fork a replit starter with necessary materials
