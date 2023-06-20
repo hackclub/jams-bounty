@@ -23,8 +23,6 @@ The goal is to build a highly curated list of quality projects for varying techn
 ### List of Jam topics:
 * 
 
-_Updated by <StaticMention username="matthew" avatar="https://cloud-dl8z4zly8.vercel.app/t0266frgm-u4qak9srw-cf4e2e522a71-512" link="https://matthewstanciu.me/" /> on 10/29/2020. Starting today, all newly-submitted workshops will have to follow these new requirements. [Click here](https://hack.af/workshop-bounty-original) to see the previous version of this announcement._
-
 - You must be a club leader or an active community member in order to submit a workshop.
 - Your Jam can be original or a remix of an existing workshop with clear improvements.
 - Your Jam must propose a compelling, specific, real project, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
