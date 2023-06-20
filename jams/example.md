@@ -1,4 +1,4 @@
-# Title: Build a custom search engine!
+# Build a custom search engine!
 
 ### Details:
 Outcome: In under an hour, build your own "Google" 
