@@ -13,7 +13,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 
 ### Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request to [this folder](/jams), following this [format](/). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
+1. Propose a Jam by making a pull request to [this folder](/jams), following this [format](/jams/example.md). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 5. Ka-ching💰🪙!
