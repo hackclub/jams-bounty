@@ -1,15 +1,15 @@
 # Build a custom search engine!
 
 ### Details:
-Outcome: In under an hour, build your own "Google" 
+_Outcome:_ In under an hour, build your own "Google" 
 
-Requirements: Some basic understanding of HTML, CSS, and JavaScript. No experience with APIs needed. Beginner friendly
+_Requirements:_ Some basic understanding of HTML, CSS, and JavaScript. No experience with APIs needed. Beginner friendly
 
-Language used: HTML, CSS, and Javascript
+_Language used:_ HTML, CSS, and Javascript
 
-Customization opportunity: change what your own site looks like with CSS, and filter content with JavaScript!
+_Customization opportunity:_ change what your own site looks like with CSS, and filter content with JavaScript!
 
-Time estimation: 50 minutes
+_Time estimation:_ 50 minutes
 
 ### Breakdown
 - Set up: Fork a replit starter with necessary materials
