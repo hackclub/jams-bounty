@@ -45,6 +45,6 @@ We're so excited for the future of Jams and if you have a great idea, make a PR 
 
 If you have any questions, please message in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) on Slack. We'll all be hanging out there to help out.
 
-\- HQ Jams Team 💖
+_- HQ Jams Team 💖_
 
 ---
