@@ -37,6 +37,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 - Ray Tracers (in Rust!)
 - Building a programming language
 - How to read the internet
+- Speak colors
 
 **What now**
 
