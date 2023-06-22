@@ -42,7 +42,7 @@ If you have any questions, please message in [#jams](https://hackclub.slack.com/
 
 _- HQ Jams Team 💖_
 
-Ps. Jam topic we're thinking of... please also suggest your own! We can't wait to see what you come up with :)
+**Ps. Here are some Jam topics we're looking at. We can't wait to see what you come up with :)**
 - Building an iOS weather app
 - Create a 3d globe with three.js
 - Writing music with code!
