@@ -17,7 +17,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 5. Ka-ching💰🪙!
 
 ### 🌈 Submission requirements:
-- We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200
+- We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200.
 - You must be a club leader or an active community member in order to submit a Jam.
 - Your Jam can be original or a remix of an existing workshop, but must have clear improvements.
 - Your Jam must propose a compelling, specific, real project, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
