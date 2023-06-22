@@ -5,6 +5,8 @@ Teaching coding is hard. Running engaging Hack Club meetings is even harder. Tha
 
 You can work with the team at HQ to ship a Jam and **we'll pay you $200** for your 10-15 hour time commitment. Then, your Jam will be used by thousands of Hack Clubbers around the world!
 
+https://github.com/hackclub/Jams/assets/65808924/9be55908-6a15-4e9d-8866-b3151e5229cf
+
 ### 👀 What is a Jam?
 
 It's a real project that can be completed in under 1 hour, is very visual, and has clear paths for continued hacking. Everyone's result is different and it encourages real learning, not just copying and pasting! The goal is to build a quality project for varying technical abilities and will include slides and a video. 
@@ -15,6 +17,8 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 5. Ka-ching💰🪙!
+6. 
+![DefiniteOrganicIndigobunting-size_restricted](https://github.com/hackclub/Jams/assets/65808924/1a57a161-5c62-4604-97da-a16f39830683)
 
 ### 🌈 Submission requirements:
 - We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200.
@@ -30,16 +34,6 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
   - ❌ A workshop on making an Android app that requires installing Android Studio
 - Your Jam must be in English at native-level proficiency. 
 
-**📜 List of Jam topics:**
-- Building an iOS weather app
-- Create a 3d globe with three.js
-- Writing music with code!
-- Password generator with Python
-- Ray Tracers (in Rust!)
-- Building a programming language
-- How to read the internet
-- Speak colors
-
 ### 🌱 What now?
 
 We're so excited for the future of Jams and if you have a great idea, make a PR and propose it! We want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
@@ -48,4 +42,12 @@ If you have any questions, please message in [#jams](https://hackclub.slack.com/
 
 _- HQ Jams Team 💖_
 
----
+Ps. Jam topic we're thinking of... please also suggest your own! We can't wait to see what you come up with :)
+- Building an iOS weather app
+- Create a 3d globe with three.js
+- Writing music with code!
+- Password generator with Python
+- Ray Tracers (in Rust!)
+- Building a programming language
+- How to read the internet
+- Speak colors
