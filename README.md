@@ -17,7 +17,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 5. Ka-ching💰🪙!
-6. 
+   
 ![DefiniteOrganicIndigobunting-size_restricted](https://github.com/hackclub/Jams/assets/65808924/1a57a161-5c62-4604-97da-a16f39830683)
 
 ### 🌈 Submission requirements:
