@@ -9,17 +9,12 @@ You can work with the team at HQ to ship a Jam and **we'll pay you $200** for yo
 
 It's a real project that can be completed in under 1 hour, is very visual, and has clear paths for continued hacking. Everyone's result is different and it encourages real learning, not just copying and pasting! The goal is to build a quality project for varying technical abilities and will include slides and a video. 
 
-** example?
-
 ### Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request to [this folder](/jams), following this [format](/jams/example.md). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
+1. Propose a Jam by making a pull request to [the jams folder](/jams), following this [format](/jams/example.md). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 5. Ka-ching💰🪙!
-
-** List of Jam topics:**
-- 
 
 **Submission requirements:**
 - You must be a club leader or an active community member in order to submit a Jam.
@@ -34,10 +29,18 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
   - ❌ A workshop on making an Android app that requires installing Android Studio
 - Your Jam must be in English at native-level proficiency. 
 
+**List of Jam topics:**
+- Building an iOS weather app
+- Create a 3d globe with three.js
+- Writing music with code!
+- Password generator with Python
+- Ray Tracers (in Rust!)
+- Building a programming language
+- How to read the internet
 
-**Wrapping up:**
+**What now**
 
-This is a change to how we've done this before and if you have a great idea, we want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
+We're so excited for the future of Jams and if you have a great idea, make a PR and propose your idea! We want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
 
 If you have any questions, please message in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) on Slack. We'll all be hanging out there to help out.
 
