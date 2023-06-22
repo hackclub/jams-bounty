@@ -1,22 +1,22 @@
 # Jams 🫐🍓🍇
 Teaching coding is hard. Running engaging Hack Club meetings is even harder. That's why, by September, we want to create an all-new repository of the most incredible coding projects ever! 
 
-**This summer join us to build the future of Hack Club workshops - we're calling them Jams!**
+**☀️ This summer join us to build the future of Hack Club workshops - we're calling them Jams!**
 
 You can work with the team at HQ to ship a Jam and **we'll pay you $200** for your 10-15 hour time commitment. Then, your Jam will be used by thousands of Hack Clubbers around the world!
 
-### What is a Jam?
+### 👀 What is a Jam?
 
 It's a real project that can be completed in under 1 hour, is very visual, and has clear paths for continued hacking. Everyone's result is different and it encourages real learning, not just copying and pasting! The goal is to build a quality project for varying technical abilities and will include slides and a video. 
 
-### Here's how to get started:
+### ✅ Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
 1. Propose a Jam by making a pull request to [the jams folder](/jams), following this [format](/jams/example.md). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
 3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 5. Ka-ching💰🪙!
 
-**Submission requirements:**
+### 🌈 Submission requirements:
 - You must be a club leader or an active community member in order to submit a Jam.
 - Your Jam can be original or a remix of an existing workshop, but must have clear improvements.
 - Your Jam must propose a compelling, specific, real project, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
@@ -29,7 +29,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
   - ❌ A workshop on making an Android app that requires installing Android Studio
 - Your Jam must be in English at native-level proficiency. 
 
-**List of Jam topics:**
+**📜 List of Jam topics:**
 - Building an iOS weather app
 - Create a 3d globe with three.js
 - Writing music with code!
@@ -39,7 +39,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 - How to read the internet
 - Speak colors
 
-**What now**
+### 🌱 What now?
 
 We're so excited for the future of Jams and if you have a great idea, make a PR and propose your idea! We want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
 
