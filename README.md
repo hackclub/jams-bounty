@@ -42,7 +42,7 @@ It's a real project that can be completed in under 1 hour, is very visual, and h
 
 ### 🌱 What now?
 
-We're so excited for the future of Jams and if you have a great idea, make a PR and propose your idea! We want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
+We're so excited for the future of Jams and if you have a great idea, make a PR and propose it! We want to work closely with you to turn it into high quality content that clubs and individuals will use every day.
 
 If you have any questions, please message in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) on Slack. We'll all be hanging out there to help out.
 
