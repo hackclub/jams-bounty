@@ -30,8 +30,8 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 
  
 ### 🌈 Submission requirements:
-- We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200.
-- You must be a club leader or an active community member in order to submit a Jam.
+_We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200._
+- You must **be a club leader** or an active community member in order to submit a Jam.
 - No two Hack Clubbers should have the same result (neither technically nor visually) after going through the Jam.
 - Jams should come with a document (providing steps for creating the project), a presentation (intended for use within clubs), and a video (intended for Club Leaders to send to their Club Members if they miss a meeting).
 - Your Jam must propose a compelling, specific, real project, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
@@ -41,7 +41,7 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 - Your Jam must involve code, and not require desktop software or hardware, since not all clubs will have those resources.
   - ✅ A Python workshop where the first step is to start a new Python project at [repl.it/languages/python](https://repl.it/languages/python)
   - ❌ A workshop on making an Android app that requires installing Android Studio
--  Browser-based Jams are strongly preferred because they are by nature cross-platform (working for Chromebooks, Macs, Linux Devices, and Windows Computers). 
+-  **Browser-based Jams are strongly preferred** because they are by nature cross-platform (working for Chromebooks, Macs, Linux Devices, and Windows Computers). 
    - They also typically have short setup times, making it easy for leaders to get their members started building their project.
    - This isn’t a requirement, but a strong suggestion (especially for beginner workshops). We do understand that this isn’t always possible.*
  
