@@ -1,15 +1,15 @@
 # Jams 🫐🍓🍇
-Teaching coding is hard. Running engaging Hack Club meetings is even harder. That's why, by September, we want to create an all-new repository of the most incredible coding projects ever! 
+Teaching coding is hard. Running engaging Hack Club meetings is even harder. That's why, this summer, we want to create an all-new repository of the most incredible coding projects ever! 
 
 **☀️ This summer join us to build the future of Hack Club workshops - we're calling them Jams!**
 
-You can work with the team at HQ to ship a Jam and **we'll pay you $200** for your 10-15 hour time commitment. Then, your Jam will be used by thousands of Hack Clubbers around the world!
+We want to work with you to create an epic Jam, and **we'll pay you $200** for your 10-15 hour time commitment. And, your Jam will be used by thousands of Hack Clubbers around the world!
 
 https://github.com/hackclub/Jams/assets/65808924/9be55908-6a15-4e9d-8866-b3151e5229cf
 
 ### 👀 What is a Jam?
 
-It's a real project that can be completed in under 1 hour, is very visual, and has clear paths for continued hacking. Everyone's result is different and it encourages real learning, not just copying and pasting! The goal is to build a quality project for varying technical abilities and will include slides and a video. 
+A Jam is a real and fun project that can be completed in under 1 hour. It is very visual, has clear paths for continued hacking, and everyone's end result is different. It encourages real learning, not just copying and pasting! The goal is to build a quality project for varying technical abilities and will include slides and a video alongside a text description.
 
 ### ✅ Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
