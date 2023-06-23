@@ -5,7 +5,7 @@ Teaching coding is hard. Running engaging Hack Club meetings is even harder. Tha
 
 We want to work with you to create an epic Jam, and **we'll pay you $200** for your 10-15 hour time commitment. And, your Jam will be used by thousands of Hack Clubbers around the world!
 
-https://github.com/hackclub/Jams/assets/65808924/9be55908-6a15-4e9d-8866-b3151e5229cf
+https://github.com/hackclub/Jams/assets/65808924/bed4123f-16d7-45fb-8215-241ddc5c1e93
 
 ### 👀 What is a Jam?
 
