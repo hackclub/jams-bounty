@@ -44,6 +44,7 @@ _We cannot offer the bounty to individuals in India. Hack Club Bank, our payment
 -  **Browser-based Jams are strongly preferred** because they are by nature cross-platform (working for Chromebooks, Macs, Linux Devices, and Windows Computers). 
    - They also typically have short setup times, making it easy for leaders to get their members started building their project.
    - This isn’t a requirement, but a strong suggestion (especially for beginner workshops). We do understand that this isn’t always possible.*
+
 **_There can be exceptions to these requirements. Ask us in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) if you're not sure!_**
 
 **Nice-to-have:**
