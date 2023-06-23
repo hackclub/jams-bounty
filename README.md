@@ -20,8 +20,8 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 1. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 1. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 1. Ka-ching💰🪙!
-   
-![DefiniteOrganicIndigobunting-size_restricted](https://github.com/hackclub/Jams/assets/65808924/1a57a161-5c62-4604-97da-a16f39830683)
+
+![minions](https://github.com/hackclub/Jams/assets/65808924/0db833fa-b432-43ae-9b10-497df0148f06)
 
 **Ps. Here's what we already have in the pipeline so please don't make a PR with these ideas**
 - Building a personal website
