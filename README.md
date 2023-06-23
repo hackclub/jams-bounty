@@ -63,5 +63,5 @@ _- HQ Jams Team 💖_
 
 **Ps. Here's what we already have in the pipeline so please don't make a PR with these ideas**
 - Building a personal website
-- BUilding a sprig game
+- Building a sprig game
 - Creating a ChatGPT Clone
