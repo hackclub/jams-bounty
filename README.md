@@ -13,10 +13,14 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 
 ### ✅ Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request to add a markdown file with the name of your project in [the jams folder](/jams), following this [format](/jams/example.md). Below is the list of Jams that we're looking for, but feel free to submit other ideas too!
-3. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
-4. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
-5. Ka-ching💰🪙!
+1. Propose a Jam by making a pull request
+  - Fork this Repo
+  - Open [the jams folder](/jams) and create a new markdown file answering questions in this [example](/jams/example.md)
+  - Name the file with the name of your project and make a pull request
+// THOMAS TO ADD GIF
+1. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
+1. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
+1. Ka-ching💰🪙!
    
 ![DefiniteOrganicIndigobunting-size_restricted](https://github.com/hackclub/Jams/assets/65808924/1a57a161-5c62-4604-97da-a16f39830683)
 
@@ -60,7 +64,6 @@ If you have any questions, please message in [#jams](https://hackclub.slack.com/
 _- HQ Jams Team 💖_
 
 **Ps. Here are some Jam topics we're looking at. We can't wait to see what you come up with :)**
-- Building an iOS weather app
 - Create a 3d globe with three.js
 - Writing music with code!
 - Password generator with Python
