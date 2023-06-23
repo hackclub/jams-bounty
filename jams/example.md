@@ -17,3 +17,12 @@ _Time estimation:_ 50 minutes
 - Part 2: Set up free google search API
 - Part 3: Write JavaScript to display results from API on the page
 - Success!!! Now you've got a search engine!
+
+Make sure you can answer these questions about your Jam idea:
+- Why should Hack Clubbers care about this project?
+- General outline of a club meet doing the Jam
+- What Club Members will walk away with (both in terms of knowledge and in terms of product)
+- What makes this workshop fun or interesting for Club Members?
+- What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)?
+- How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)?
+- Will you be available on Slack to provide support to Hack Clubbers who run into issues while going through your Jam?
