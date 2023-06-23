@@ -63,11 +63,7 @@ If you have any questions, please message in [#jams](https://hackclub.slack.com/
 
 _- HQ Jams Team 💖_
 
-**Ps. Here are some Jam topics we're looking at. We can't wait to see what you come up with :)**
-- Create a 3d globe with three.js
-- Writing music with code!
-- Password generator with Python
-- Ray Tracers (in Rust!)
-- Building a programming language
-- How to read the internet
-- Speak colors
+**Ps. Here's what we already have in the pipeline so please don't make a PR with these ideas**
+- Building a personal website
+- BUilding a sprig game
+- Creating a ChatGPT Clone
