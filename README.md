@@ -23,6 +23,11 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
    
 ![DefiniteOrganicIndigobunting-size_restricted](https://github.com/hackclub/Jams/assets/65808924/1a57a161-5c62-4604-97da-a16f39830683)
 
+**Ps. Here's what we already have in the pipeline so please don't make a PR with these ideas**
+- Building a personal website
+- Building a sprig game
+- Creating a ChatGPT Clone
+
  
 ### 🌈 Submission requirements:
 - We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200.
@@ -60,8 +65,3 @@ We're so excited for the future of Jams and if you have a great idea, make a PR 
 If you have any questions, please message in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) on Slack. We'll all be hanging out there to help out.
 
 _- HQ Jams Team 💖_
-
-**Ps. Here's what we already have in the pipeline so please don't make a PR with these ideas**
-- Building a personal website
-- Building a sprig game
-- Creating a ChatGPT Clone
