@@ -25,4 +25,4 @@ _Time estimation:_ 50 minutes
 - What Club Members will walk away with (both in terms of knowledge and in terms of product): basic knowledge of functions
 - What makes this workshop fun or interesting for Club Members? perfect for beginners
 - What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)? Browser-based Replit Development, so available on all platforms (+ App available on both iOS and Android)
-- How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)? in Part 2, we'll give some things that you can do with Lua, but you can do it with another example
+- How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)? in Part 2, we'll give some things that you can do with Lua, but you can do it with another example. Also we can expand to create your own game, Roblox Studio uses Lua.
