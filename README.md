@@ -5,7 +5,7 @@ Teaching coding is hard. Running engaging Hack Club meetings is even harder. Tha
 
 We want to work with you to create an epic Jam, and **we'll pay you $200** for your 10-15 hour time commitment. And, your Jam will be used by thousands of Hack Clubbers around the world!
 
-https://github.com/hackclub/Jams/assets/65808924/9be55908-6a15-4e9d-8866-b3151e5229cf
+https://github.com/hackclub/Jams/assets/65808924/bed4123f-16d7-45fb-8215-241ddc5c1e93
 
 ### 👀 What is a Jam?
 
@@ -44,7 +44,9 @@ _We cannot offer the bounty to individuals in India. Hack Club Bank, our payment
 -  **Browser-based Jams are strongly preferred** because they are by nature cross-platform (working for Chromebooks, Macs, Linux Devices, and Windows Computers). 
    - They also typically have short setup times, making it easy for leaders to get their members started building their project.
    - This isn’t a requirement, but a strong suggestion (especially for beginner workshops). We do understand that this isn’t always possible.*
- 
+
+**_There can be exceptions to these requirements. Ask us in [#jams](https://hackclub.slack.com/archives/C058T2CJUNR) if you're not sure!_**
+
 **Nice-to-have:**
 - Challenges should be sprinkled throughout the Jam (with solutions in dropdowns).
 - Jams **should take no longer than one hour **to complete (if you want to build something larger, consider separating it into smaller separate parts).
