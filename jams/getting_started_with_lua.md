@@ -16,7 +16,7 @@ _Time estimation:_ 50 minutes
 ### Breakdown
 - Set up: Fork a replit starter with necessary materials
 - Part 1: knowing functions
-- Part 2: let's combinate functions to do something (ex.: calculator)
+- Part 2: let's combinate functions to do something (ex.: calculator - basic, scrabble game - internediate)
 - Success!!! Now you know Lua!
 
 **Make sure your proposal answer these questions about your Jam idea:**
@@ -24,5 +24,5 @@ _Time estimation:_ 50 minutes
 - General outline of a club meet doing the Jam: Do the Jam, explore possibilities with the language
 - What Club Members will walk away with (both in terms of knowledge and in terms of product): basic knowledge of functions
 - What makes this workshop fun or interesting for Club Members? perfect for beginners
-- What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)? Browser
+- What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)? Browser-based Replit Development, so available on all platforms (+ App available on both iOS and Android)
 - How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)? in Part 2, we'll give some things that you can do with Lua, but you can do it with another example
