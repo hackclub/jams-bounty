@@ -33,8 +33,8 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 _We cannot offer the bounty to individuals in India. Hack Club Bank, our payment method, is virtually impossible to use in India. You're welcome to particpate, but you will not qualify for $200._
 - You must **be a club leader** or an active community member in order to submit a Jam.
 - No two Hack Clubbers should have the same result (neither technically nor visually) after going through the Jam.
-- Jams should come with a document (providing steps for creating the project), a presentation (intended for use within clubs), and a video (intended for Club Leaders to send to their Club Members if they miss a meeting).
-- Your Jam must propose a compelling, specific, real project, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
+- Jams should come with a **document** (providing steps for creating the project), a **presentation** (intended for use within clubs), and a **video** (intended for Club Leaders to send to their Club Members if they miss a meeting).
+- Your Jam must propose a **compelling, specific, real project**, using real code. **It should not be a tutorial** for a language or service. It should also not be a series of small projects with no clear ending or final product.
   - ✅ [Animated 3D Models](https://workshops.hackclub.com/3d_models_with_zdog/), which uses a simple JavaScript library to create awesome-looking 3D models
   - ❌ A tutorial for how to get started with AWS
   - ❌ A workshop on an introduction to Scratch
@@ -47,7 +47,7 @@ _We cannot offer the bounty to individuals in India. Hack Club Bank, our payment
  
 **Nice-to-have:**
 - Challenges should be sprinkled throughout the Jam (with solutions in dropdowns).
-- Jams should take no longer than one hour to complete (if you want to build something larger, consider separating it into smaller separate parts).
+- Jams **should take no longer than one hour **to complete (if you want to build something larger, consider separating it into smaller separate parts).
 - Include memes, jokes, and a generally humorous style throughout the Jam.
 - Include resources for Hack Clubbers to learn more about the topic you’re introducing them to.
 - A low floor and a high ceiling.
