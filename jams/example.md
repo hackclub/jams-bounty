@@ -1,17 +1,17 @@
-# Build a custom search engine!
+# EXAMPLE TITLE, 3D Scanning and Integration: Bringing Real Objects into A-Frame Virtual Reality Worlds
 
 ### Details:
-_Outcome:_ In under an hour, build your own "Google" 
+_Outcome:_ Create your own A-Frame world that incorporates an object, person, or entire room scanned by a mobile app
 
-_Requirements:_ Some basic understanding of HTML, CSS, and JavaScript. No experience with APIs needed. Beginner friendly
+_Requirements:_ iOS or Android Phone (for scanning), Replit Access
 
-_Language used:_ HTML, CSS, and Javascript
+_Language used:_ A-Frame
 
-_Customization opportunity:_ change what your own site looks like with CSS, and filter content with JavaScript!
+_Customization opportunity:_ Scan any object, person, or room you'd like and create your own A-Frame world around that object. You could also include multiple objects/people/rooms. Each world created is different and can have a level of complexity decided by the Jammer. 
 
-_Platform Limitations:_ Will work on all browsers
+_Platform Limitations:_ Browser-based Replit Development, so available on all platforms (+ App available on both iOS and Android)
 
-_Time estimation:_ 50 minutes
+_Time estimation:_ 1 Hour 
 
 ### Breakdown
 - Set up: Fork a replit starter with necessary materials
@@ -20,7 +20,8 @@ _Time estimation:_ 50 minutes
 - Part 3: Write JavaScript to display results from API on the page
 - Success!!! Now you've got a search engine!
 
-**Make sure your proposal answer these questions about your Jam idea:**
+**Make sure your proposal (similar to the one above) answer these questions about your Jam idea:**
+- How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)? 
 - Why should Hack Clubbers care about this project?
 - General outline of a club meet doing the Jam
 - What Club Members will walk away with (both in terms of knowledge and in terms of product)
