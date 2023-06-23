@@ -13,7 +13,7 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 
 ### ✅ Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request
+1. Propose a Jam by making a pull request by July 2nd
   - Fork this Repo
   - Open [the jams folder](/jams) and create a new markdown file answering questions in this [example](/jams/example.md)
   - Name the file with the name of your project and make a pull request
