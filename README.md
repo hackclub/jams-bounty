@@ -17,7 +17,7 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
   - Fork this Repo
   - Open [the jams folder](/jams) and create a new markdown file answering questions in this [example](/jams/example.md)
   - Name the file with the name of your project and make a pull request
-// THOMAS TO ADD GIF
+**// THOMAS TO ADD GIF**
 1. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
 1. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 1. Ka-ching💰🪙!
