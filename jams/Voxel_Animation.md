@@ -1,13 +1,13 @@
-# Create your own 3D voxel animation 
+# Create your own 3D voxel animation scene
   
  ### Details: 
- _Outcome:_ Create your own unique animation with the power of voxels, JavaScript and Three.js.
+ _Outcome:_ Create your own unique blender like animation with the power of voxels, JavaScript and Three.js, that remind you of those minecraft animations that you watched as a child. This jam is different to other animations workshops because it focuses more on world and story design because there is a restriction to only use Voxels. Further more the every member will need to create their **own** scene that will be animated and created from **scratch**.
   
  _Requirements:_ Replit Access and basic JavaScript knowledge 
   
  _Language used:_ JavaScript 
   
- _Customization opportunity:_ Create your own voxel based animation. You are able to customize the camera motion and even each individual voxel to create your dream animation. Each voxel can be customized with different colors and even textures making each voxel unique!
+ _Customization opportunity:_ Create your own voxel based, blender like animation. You are able to customize the camera motion and even each individual voxel to create your dream animation. Each voxel can be customized with different colors and even textures making each voxel unique!
   
  _Platform Limitations:_ Browser-based Replit Development, so available on all platforms
   
