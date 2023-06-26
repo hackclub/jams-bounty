@@ -1,21 +1,33 @@
-# 3D Platformer Game With Unity
+# 3D Platformer Game With Godot Web-engine
 
 ### Details:
-**_Task_** : To create a simple 3D platformer game with the free version of **Unity**.
+**_Task_** : To create a simple 3D platformer game using Godot's web based game engine
 
-**_Requirements:_** Laptop or PC (Any OS that supports Unity, Linux/Mac/Windows), Free Unity Version.
+**_Requirements:_** : Any device with a browser
 
-**_Language used:_** C#
+**_Language used:_** C#, GDScript
 
-**_Customization opportunity:_** You can add your own assets and change the default cube player into a better asset like a human, which you can easily get from the *Unity Asset Store* .
+**_Customization opportunity:_** You can add your own assets and change the default cube player into a better asset like a human.
 
-**_Platform Limitations:_** When the game is exported, you can choose a platform to export it to as long as it is available in **Unity**.
+**_Platform Limitations:_** It works for all platforms with a browser
 
 **_Time estimation:_** 1 Hour .
 
 ### Breakdown
-- Setup: Downloading Unity and Creating the project.
+- Setup: Making a account on Godot and starting a project!
 - Part 1: Making the platform and adding the player and obstacles.
 - Part 2: Making scripts for player moments and collision detection.
 - Part 3: Adding a Jumping Mechanism.
 - Success!!! You have made your first ever game!
+
+### Questions:
+1. How will you ensure that every outcome of the workshop varies (i.e., how will you give jammers a sense of ownership over their project)?
+- Jammers can use their own assets that will make each jam visually different from each other. (Additionally, developers with more experience can even add animations.)
+2. Why should Hack Clubbers care about this project?
+- Comeon, Who doesn't love games!?  
+3. What Club Members will walk away with (both in terms of knowledge and in terms of product)
+- They will walk away with possibly their first ever game and the knowledge to make more.  
+4. What makes this workshop fun or interesting for Club Members?
+- Seeing the outcomes of your code in a virtual 3D world can be amusing for some beginners.  
+5. What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)?
+- Any platform with a browser
