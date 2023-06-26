@@ -14,10 +14,13 @@
 **_Time estimation:_** 1 Hour .
 
 ### Breakdown
+#### Session 1:
 - Setup: Creating a server and a bot user
 - Part 1: Getting started with Replit
 - Part 2: Making the bot reply to certain words or prefixes 
-- Part 3: Giving the bot a voice!
-- Part 4: Creating a webserver for the bot 
+- Part 3: Creating a webserver for the bot
+
+#### Session 2:
+- Part 1: Giving the bot a voice!
 
 ### Congratulations! Now you have a working discord bot.
