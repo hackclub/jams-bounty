@@ -1,23 +1,23 @@
-# Bash/Powershell 101 - A guide to master the CLI and bash script    
+# Bash 101 - The ultimate guide to master the CLI and bash scripting
 
 ### Details:
-_Outcome:_ Create a simple time converter using BASH/POWERSHELL
+_Outcome:_ Learn the BASH scripting language by creating a simple timezone converter.
 
 _Requirements:_ 
-- 
-- 
+- Any linux based OS (including chromeos and MACOS)  
+- A little knowledge of fundamentals (variables, loops, conditions, etc), any previous programming language experience is enough.
 
-_Language used:_ A-Frame
+_Language used:_ Bash
 
-_Customization opportunity:_ Scan any object, person, or room you'd like and create your own A-Frame world around that object. You could also include multiple objects/people/rooms. Each world created is different and can have a level of complexity decided by the Jammer. 
+_Customization opportunity:_ Different usecases and commands.
 
-_Platform Limitations:_ Browser-based Replit Development, so available on all platforms (+ App available on both iOS and Android)
+_Platform Limitations:_ Linux based OS's only. Windows users can use replit bash which is browser-based (Will add a WSL tutorial).
 
 _Time estimation:_ 1 Hour 
 
-### Breakdown
-- Set up: Fork a replit starter with necessary materials
-- Part 1: Building out front end of the website with an input bar and button
-- Part 2: Set up free google search API
-- Part 3: Write JavaScript to display results from API on the page
-- Success!!! Now you've got a search engine!
+### Breakdown (TBD)
+- Set up: Enable terminal for chromeOS
+- Part 1: Build out a simple hello world program.
+- Part 2: Functions, loops and build a simple input search using stdin
+- Part 3: Introduce the 'date' command, arguments and ENVIROMENT VARIABLES.
+- PART 4:
