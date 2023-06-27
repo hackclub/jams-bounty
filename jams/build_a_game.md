@@ -16,12 +16,12 @@ _Platform Limitations:_ Browser-based development with glitch.com, so it works o
 _Time estimation:_ 30 minutes to 1 hour 
 
 ### Breakdown
-- Set up: Make an account on glitch.com
-- Part 1: Remix a template I will make 
-- Part 2: Fill in the blanks in the template (like the Sprig template)
-- Part 3: Explain + demo creating levels
-- Part 4 (optional): Demonstrate creating sprites with piskel.app
-- Show people how to get a public link to a Glitch project
+- Set up: Make an account on glitch.com (5 minutes)
+- Part 1: Remix a template I will make (<5 minutes)
+- Part 2: Fill in the blanks in the template (like the Sprig template) (15-20 min)
+- Part 3: Explain + demo creating levels (15 min)
+- Part 4 (optional): Demonstrate creating sprites with piskel.app (15 min)
+- Show people how to get a public link to a Glitch project (2 min)
 - Let the Jammers go wild for the rest of the workshop time!
 
 ### Questions
