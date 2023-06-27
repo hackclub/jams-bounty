@@ -14,9 +14,9 @@ _Platform Limitations:_ Will work on replit and terminals
 _Time estimation:_ 50 minutes
 
 ### Breakdown
-- Set up: Fork a replit starter with necessary materials
-- Part 1: knowing functions
-- Part 2: let's combinate functions to do something (ex.: calculator - basic, scrabble game - internediate)
+- Set up: Fork a replit starter with necessary materials (5-10 minutes)
+- Part 1: knowing keywords (10-15 minutes)
+- Part 2: let's play with the language (30 minutes)
 - Success!!! Now you know Lua!
 
 **Make sure your proposal answer these questions about your Jam idea:**
