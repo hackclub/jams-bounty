@@ -14,11 +14,11 @@
 **_Time estimation:_** 1 Hour .
 
 ### Breakdown
-- Setup: Making a account on Godot and starting a project!
-- Part 1: Making the platform and adding the player and obstacles.
-- Part 2: Making scripts for player moments and collision detection.
-- Part 3: Adding a Jumping Mechanism.
-- Success!!! You have made your first ever game!
+- Setup: Making a account on Godot and starting a project! (5 mins)
+- Part 1: Making the platform and adding the player and obstacles. (10 mins)
+- Part 2: Making scripts for player moments and collision detection. (25mins)
+- Part 3: Adding a Jumping Mechanism. (10 mins)
+- Success!!! You have made your first ever game! (Note: Required time can vary from person to person, I have estimated and considered a beginner. For more skilled coders, it can even take less than the estimate)
 
 ### Questions:
 1. How will you ensure that every outcome of the workshop varies (i.e., how will you give jammers a sense of ownership over their project)?
