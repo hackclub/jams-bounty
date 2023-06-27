@@ -22,6 +22,13 @@ _Time estimation:_ 1 Hour or less
 - Part 3: Deploy the token and verify its existence!
 - Tada!!! You have now made an Token to flex to other with! 
 
+Step 1 would take 10 to 15 mins as it depends on the person on how much time it takes to setup the accounts.
+
+Step 2 would take 20 mins to 30 mins to understand the solidity programming language and writing a basic code.
+
+Step 3 would only take 5 mins as deployment is fast. (Can depend on the Blockchain)
+
+
 **Q & A:**
 - How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)?
 ### -  Each token is unique in its own way with custom names and symbols and icons giving an unique feel.
