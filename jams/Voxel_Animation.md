@@ -14,11 +14,11 @@
  _Time estimation:_ 1 Hour  
   
  ### Breakdown 
- - Set up: Fork a replit starter with necessary materials 
- - Part 1: Create a `Play` button so you can play the animation.
- - Part 2: Implement a basic renderer using ThreeJS
- - Part 3: Add the functionality for the animation to be recorded 
- - Part 4: Create the map that the animation will live in
+ - Set up: Fork a replit starter with necessary materials. ( approx. 2-7 minutes, let's say 5 )
+ - Part 1: Create a `Play` button so you can play the animation. ( approx. 5 minutes since it is a simple html button )
+ - Part 2: Implement a basic renderer using ThreeJS ( approx. 6 minutes )
+ - Part 3: Add the functionality for the animation to be recorded  ( approx. 4 minutes, calls 3 library functions )
+ - Part 4: Create the map that the animation will live in ( approx. 40 minutes+ should be enought to create a low detail scene )
  - Success!!! Now you've got an animation.
   
  **Make sure your proposal (similar to the one above) answer these questions about your Jam idea:** 
