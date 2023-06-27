@@ -13,7 +13,7 @@ _Customization opportunity:_ Jammers will be able to customize basically every a
 
 _Platform Limitations:_ Browser-based development with glitch.com, so it works on any desktop browser.
 
-_Time estimation:_ 30 minutes to 1 hour 
+_Time estimation:_ 1 hour
 
 ### Breakdown
 - Set up: Make an account on glitch.com (5 minutes)
