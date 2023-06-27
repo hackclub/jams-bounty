@@ -1,6 +1,6 @@
 # Jams 🫐🍓🍇
 
-**⚠️ Deadline for proposals is July 2nd ⚠️**
+**⚠️ DEADLINE FOR PROPOSALS IS JULY 2ND ⚠️**
 
 Teaching coding is hard. Running engaging Hack Club meetings is even harder. That's why, this summer, we want to create an all-new repository of the most incredible coding projects ever! 
 
