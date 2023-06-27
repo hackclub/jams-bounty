@@ -1,4 +1,4 @@
-# Deploying Python Functions Into Web-Apps Using Gradio 
+# Deploying Python Functions As Web-Apps Using Gradio 
 
 ### Details:
 _Outcome:_ Learn how to deploy Python functions using Gradio (a pip-installed Python library to easily deploy functions to a live web-app, accessible anywhere, see image below). Meanwhile, you'll learn the basics of Python :)
@@ -13,7 +13,7 @@ _Customization opportunity:_ There's a lot! You'll have a choice to which python
 
 _Platform Limitations:_ Browser based Google Colab, so available on all platforms.
 
-_Time estimation:_ 50 minutes
+_Time estimation:_ 60 minutes
 
 ### Breakdown
 
@@ -21,5 +21,5 @@ _Time estimation:_ 50 minutes
 - Part 1: basics/cool functionality of Python (if-statements, functions, API calls, etc) (15 mins)
 - Part 2: Give everyone 15 minutes to code out a Python function of their chioce (15 mins)
 - Part 3: Deploy this using Gradio, and explain various gradio input types (text, image, file, radio-select, etc) (15 mins)
-- Part 4 (extension): If you want a permanent deployed link (longer than the default 72 hours), deploy your Gradio model to HuggingFace in the terminal.
+- Part 4 (extension): If you want a permanent deployed link (longer than the default 72 hours), deploy your Gradio model to HuggingFace in the terminal. (10 mins)
 - Hooray!!! Now you've got a working Gradio app!
