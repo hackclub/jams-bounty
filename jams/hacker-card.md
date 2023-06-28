@@ -1,4 +1,4 @@
-# PCB Business Card -- Design Your First PCB
+# Hacker Card -- Design Your First PCB
 
 It'll be very similar to the [workshop call](https://github.com/hackclub/OnBoard/blob/main/meta/2023-05-20_WORKSHOP_CALL.md) I ran for OnBoard!
 
