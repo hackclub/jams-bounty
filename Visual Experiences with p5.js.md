@@ -9,11 +9,11 @@
 - **Time estimation:** 1 Hour
 
 ### Breakdown
-1. **Set up:** Installing the p5.js library and setting up a new p5.js project.
-2. **Part 1:** Understanding the p5.js framework and its core concepts.
-3. **Part 2:** Design and generate visual elements using code. Explore geometric shapes, patterns, colors, and textures.
-4. **Part 3:** Introduce motion and animation to the visual elements. Experimenting with transformations, keyframe animations, and easing functions.
-5. **Success!!!** Now you've created your own dynamic motion art using p5.js!
+1. **Set up:** Installing the p5.js library and setting up a new p5.js project.(5 minutes)
+2. **Part 1:** Understanding the p5.js framework and its core concepts.(10 minutes )
+3. **Part 2:** Design and generate visual elements using code. Explore geometric shapes, patterns, colors, and textures.(20 minutes)
+4. **Part 3:** Introduce motion and animation to the visual elements. Experimenting with transformations, keyframe animations, and easing functions.(20 minutes)
+5. **Success!!!** Now you've created your own dynamic motion art using p5.js! (recap and final show - 5 minutes)
 
 ### Proposal
 - How will you ensure that every outcome of the workshop varies (i.e., how will you give participants a sense of ownership over their projects)?
