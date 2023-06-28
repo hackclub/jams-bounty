@@ -24,12 +24,7 @@
  **Make sure your proposal (similar to the one above) answer these questions about your Jam idea:** 
  - How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)?  
  Every animation should physically be impossible to be replicated unknowingly. As such every jammer will have their own unique and lovely animation.  
-  Each person would be encouraged to create a unique animation that is totally different to each other. The club leader would encourage each member to do something unique and even wacky! Each member could thing of a basic animation idea to create or the leader can have a "pool of idea" that members are encouraged to use but it will have a system in place to allow one idea per person. Furthermore for the people that also need a creative boost we can link some "animation idea generators" that generate totally random ideas! ( Note: They would have to take it a notch down ). The leader will also encourage simplicity as to not waste that much time on details but the animation itself to make it fun. At the end the animation should be something simple. Some ideas that come to mind are:
-  
-  Simple house animation
-  A rectangle earth with "meteors" coming down to it
-  A stable name with the camera zooming out
-  A cube that expands
+  Each person would be encouraged to create a unique animation that is totally different to each other, animations can be fun or even wacky! Each member could think of a basic animation idea to create or we can provide a "pool of idea" that members are encouraged to use but it will have a system in place to allow one idea per person. This will encourage simplicity as to not waste that much time on details but the animation itself to make it fun. At the end the animation should be something simple. Some ideas that come to mind are: Simple house animation, A rectangle earth with "meteors" coming down to it, A stable name with the camera zooming out, A cube that expands
  - Why should Hack Clubbers care about this project? 
  Hack Clubbers should care about this project because it gives them JavaScript experience in a lovely and fun way. Moreover it gives them an entry to the world of game development and animation that is currently seeing a rapid increase.
  - General outline of a club meet doing the Jam 
