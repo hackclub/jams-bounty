@@ -33,3 +33,12 @@
     6) Adding color
     7) Camera controls
 5) Where to go from here, further optimizations like perturbation theory, and trade offs from using GPU
+
+
+### Additional Information
+* __Why should Hack Clubbers care about this project__: Graphics programming is one of the most under appreciated technologies that we use for almost everything on the web, and on our computers. This jam will give a beginner - intermediate(depending on how you follow the Jam after its over) view into how this process actually works.
+* __What club members will walk away with__: Following the completion of the Jam, members will have a low level understanding of the GPU rendering pipeline, in addition to this, they will also understand the complex math behind fractals, for which many elegant explanations exist.
+* __What makes the Jam fun for members__: When I first made this project by myself for fun, it wa the most rewarding experience to actually be interfacing with the GPU directly from my code. Really getting this loe level view of GPU code is very rewarding when you see your hard work pay off.
+* __What platforms are supported__: [Everyone](https://caniuse.com/webgl), replit can be used to complete the project as well
+* __How will you allow Club Leaders to add their own project to the Jam presentation__: Leaders can finish the Jam and create the web app. They can then serve it on a local web server so that students on the same wifi network can view it and see the end product before they start. If they are not on the same network the Lleader can always [tunnel the connection](https://theboroer.github.io/localtunnel-www/) to quickly show it to them
+* 
