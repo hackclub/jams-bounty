@@ -41,4 +41,3 @@
 * __What makes the Jam fun for members__: When I first made this project by myself for fun, it wa the most rewarding experience to actually be interfacing with the GPU directly from my code. Really getting this loe level view of GPU code is very rewarding when you see your hard work pay off.
 * __What platforms are supported__: [Everyone](https://caniuse.com/webgl), replit can be used to complete the project as well
 * __How will you allow Club Leaders to add their own project to the Jam presentation__: Leaders can finish the Jam and create the web app. They can then serve it on a local web server so that students on the same wifi network can view it and see the end product before they start. If they are not on the same network the Lleader can always [tunnel the connection](https://theboroer.github.io/localtunnel-www/) to quickly show it to them
-* 
