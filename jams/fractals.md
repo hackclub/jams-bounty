@@ -25,14 +25,15 @@
 2) Here you can choose a specific fractal to use for your project
 3) What is WebGL, and why are we using it instead of just Javascript and Canvas elements?
 4) Rendering fractals
-    1) Setting up WebGL code
+    1) Setting up WebGL code ★
     3) What are Vertex and Fragment Shaders
-    2) Drawing a square
-    3) Rendering our scene
-    4) Uniform variables
-    5) Simplifying the complex plane to real numbers
-    6) Adding color
-    7) Camera controls
+    2) Drawing a square ★
+    3) Rendering our scene ★
+    4) What are Uniform variables
+    5) Implementing Uniform variables ★
+    6) Simplifying the complex plane to real numbers
+    7) Adding color ★
+    8) Camera controls ★
 5) Where to go from here, further optimizations like perturbation theory, and trade offs from using GPU
 
 
@@ -42,3 +43,11 @@
 * __What makes the Jam fun for members__: When I first made this project by myself for fun, it wa the most rewarding experience to actually be interfacing with the GPU directly from my code. Really getting this loe level view of GPU code is very rewarding when you see your hard work pay off.
 * __What platforms are supported__: [Everyone](https://caniuse.com/webgl), replit can be used to complete the project as well
 * __How will you allow Club Leaders to add their own project to the Jam presentation__: Leaders can finish the Jam and create the web app. They can then serve it on a local web server so that students on the same wifi network can view it and see the end product before they start. If they are not on the same network the Lleader can always [tunnel the connection](https://theboroer.github.io/localtunnel-www/) to quickly show it to them
+
+
+- **General outline of a club meet doing the Jam**
+  - **3 minutes:** Quick intro to graphics programming
+  - **50 minutes:** Going through the breakdown above, the sections that are marked with ★ are live coding that students can follow along with
+  - **5 minutes:** Members can show off renders they made or different things they discover in the fractals
+  - **2 minutes:** Quickly go over where to go from here (step 5 on the breakdown)
+
