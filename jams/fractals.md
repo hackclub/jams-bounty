@@ -21,6 +21,7 @@
 
 ### Breakdown
 ###### Each point is a chapter, or section of the Jam
+###### ★ = live coding
 1) Learn about the imaginary plane and how fractals are formed (Mathematical Overview)
 2) Here you can choose a specific fractal to use for your project
 3) What is WebGL, and why are we using it instead of just Javascript and Canvas elements?
