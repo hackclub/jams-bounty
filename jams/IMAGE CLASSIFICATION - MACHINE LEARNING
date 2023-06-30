@@ -1,0 +1,59 @@
+# Image Classifaction with Teachable Machine - Train and Classify Objects Around You
+### Details:
+_Outcome:_ Create your very own image classification model that runs directly in your web browser and can classify objects/poses of your choice. 
+We are taking Face Mask Detection as Example!
+
+_Requirements:_ Computer With Internet Access and Web Browser
+
+_Languages used:_ JavaScript
+
+_Customization opportunity:_ While we'll explore Face Mask Detection, they have the freedom to train your model to recognize any objects you're interested in. 
+Personalize the user interface and add additional features to enhance the classification experience.
+
+Platform Limitations: Browser-based Development, so available on all platforms
+
+_Time estimation_: 1 Hour
+
+### Breakdown
+Here's the breakdown of our exciting journey:
+- Set up: Access the user-friendly Teachable Machine website and create your own image classification project.
+- Part 1: Collect and Prepare Data: Capture images of face masks and examples without face masks to train your model effectively.
+- Part 2: Train Your Model: Utilize the powerful Teachable Machine platform to train your AI model effortlessly.
+- Part 3: Integrate Into Your Web Page: Export your trained model into p5js editor online
+- Congratulations! You now possess a remarkable image classification model running smoothly in your browser, tailored to your specific object of interest.
+
+
+- How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)? 
+  -Since I will be doing an Face Mask Detection and classify whether the mask is worn or not, Jammers can follow along to do the classification of any thing they can imagine like Hat detection,
+   goggle detection, smile detection, sadness detection, Sign Language Detection and many more they can imagine of.
+- Why should Hack Clubbers care about this project?
+  -Machine Learning and AI are emerging topics and I think this project will give jammers insights of Machine Learning in easiest way possible and they will be encouraged to try out new machine learning projects.
+- General outline of a club meet doing the Jam
+1. Final Outcome Demonstration
+2. Signup to Teachable Machine
+3. Find out what they want to classify or perform detection
+4. Collecting the dataset/Creating new Dataset
+5. Model Generation
+6. Using the model on starter template of the JS to show on browser
+
+- What Club Members will walk away with (both in terms of knowledge and in terms of product)
+  - How to Create dataset for training the ML Model using Teachable Machine using Camera of Upload
+  - How to Use the Teachable Machine to Generate Models based on interest
+  - How to utlize the model inside JavaScript Code
+  - A exciting project to show Off
+
+- What makes this workshop fun or interesting for Club Members?
+  -The ability to unlease the learned skills to create classification of anything they can imagine like Eye Close detection, Mouth Open Detection and so on makes the Learning Process fun and engaging.
+- What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)?
+  -There is no platform Limitation
+- How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)?
+  -They can just show up on call and demonstrate that "Look, This is what I have made and its working fine and maybe little bit talk why they built that"
+
+
+
+
+
+
+
+
+
