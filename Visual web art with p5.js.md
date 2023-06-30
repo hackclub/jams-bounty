@@ -1,4 +1,4 @@
-# Motion Art Generation: Creating Dynamic Visual Experiences with p5.js
+# Web Art Generation: Creating Dynamic Visual Experiences with p5.js
 
 ### Details:
 - **Outcome:** create interactive animations, generative art, data visualizations, games, simulations, and more using p5.js.
