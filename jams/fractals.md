@@ -22,19 +22,16 @@
 ### Breakdown
 ###### Each point is a chapter, or section of the Jam
 ###### ★ = live coding
-1) Learn about the imaginary plane and how fractals are formed (Mathematical Overview)
-2) Here you can choose a specific fractal to use for your project
-3) What is WebGL, and why are we using it instead of just Javascript and Canvas elements?
-4) Rendering fractals
-    1) Setting up WebGL code ★
-    3) What are Vertex and Fragment Shaders
-    2) Drawing a square ★
-    3) Rendering our scene ★
-    4) What are Uniform variables
-    5) Implementing Uniform variables ★
-    6) Simplifying the complex plane to real numbers
-    7) Adding color ★
-    8) Camera controls ★
+1) Learn about the imaginary plane and how fractals are formed (Mathematical Overview) - 5 minutes
+2) Here you can choose a specific fractal to use for your project - 2 minutes
+3) What is WebGL, and why are we using it instead of just Javascript and Canvas elements? - 3 minutes
+4) Rendering fractals - 50 minutes
+    1) Setting up WebGL code ★ - 10 minutes
+    3) What are Vertex and Fragment Shaders - 3 minutes
+    2) Rendering a basic scene ★ - 15 minutes
+    4) Adding Uniform Variables ★ - 5 minutes
+    6) Simplifying the complex plane to real numbers - 2 minutes
+    7) Finishing our project(Colors and Camera controls) ★ - 15 minutes
 5) Where to go from here, further optimizations like perturbation theory, and trade offs from using GPU
 
 
@@ -47,8 +44,6 @@
 
 
 - **General outline of a club meet doing the Jam**
-  - **3 minutes:** Quick intro to graphics programming
-  - **50 minutes:** Going through the breakdown above, the sections that are marked with ★ are live coding that students can follow along with
-  - **5 minutes:** Members can show off renders they made or different things they discover in the fractals
-  - **2 minutes:** Quickly go over where to go from here (step 5 on the breakdown)
+  - **55 minutes:** Going through the breakdown above, the sections that are marked with ★ are live coding that students can follow along with
+  - **5 minutes:** Members can show off renders they made or different things they discover in the fractals, and going over how to continue the project after the Jam
 
