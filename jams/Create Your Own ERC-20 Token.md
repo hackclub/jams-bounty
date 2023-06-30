@@ -17,19 +17,11 @@ _Time estimation:_ 1 Hour or less
 
 ### Breakdown
 - Set up: Understand the ethereum network
-- Part 1: Set up a Metamask and Quicknode account
-- Part 2: Open remix IDE and write solidity code (its super easy that you can do it under 15 lines of code or less!)
-- Part 3: Deploy the token and verify its existence!
+- Understanding Solidity: going to start by explaining the code, showing some examples and going through the example code line by line to ensure that the code is easy to follow.
+- Part 1: Set up a Metamask and Quicknode account (takes from 10 to 15 mins)
+- Part 2: Open remix IDE and write solidity code (its super easy that you can do it under 15 lines of code or less!) (takes from 20 to half an hour)
+- Part 3: Deploy the token and verify its existence! (5 mins max!)
 - Tada!!! You have now made an Token to flex to other with! 
-
-### Time Estimation per step
-
--Step 1 would take 10 to 15 mins as it depends on the person on how much time it takes to setup the accounts.
-
--Step 2 would take 20 mins to 30 mins to understand the solidity programming language and writing a basic code.
-
--Step 3 would only take 5 mins max as deployment is fast. (Can depend on the Blockchain)
-
 
 **Q & A:**
 - How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)?
