@@ -1,19 +1,19 @@
 # Motion Art Generation: Creating Dynamic Visual Experiences with p5.js
 
 ### Details:
-- **Outcome:** Generate unique motion-based artwork using code and the p5.js framework
-- **Requirements:** Computer with p5.js library installed
+- **Outcome:** create interactive animations, generative art, data visualizations, games, simulations, and more using p5.js.
+- **Requirements:** Web browser with support for p5.js library.
 - **Language used:** JavaScript
 - **Customization opportunity:** Experiment with different algorithms, parameters, and visuals to create a wide variety of motion-based artworks. Each participant can explore their own artistic vision and adjust the level of complexity according to their skills and interests.
-- **Platform Limitations:** Windows, macOS, Linux, and web browsers
+- **Platform Limitations:** none 
 - **Time estimation:** 1 Hour
 
 ### Breakdown
-1. **Set up:** Installing the p5.js library and setting up a new p5.js project.(5 minutes)
-2. **Part 1:** Understanding the p5.js framework and its core concepts.(10 minutes )
-3. **Part 2:** Design and generate visual elements using code. Explore geometric shapes, patterns, colors, and textures.(20 minutes)
-4. **Part 3:** Introduce motion and animation to the visual elements. Experimenting with transformations, keyframe animations, and easing functions.(20 minutes)
-5. **Success!!!** Now you've created your own dynamic motion art using p5.js! (recap and final show - 5 minutes)
+1. **Set up:** Install the p5.js library by including it in the HTML file with a script tag or using a CDN. Set up a new p5.js project with an HTML canvas element where the smoke particles will be rendered..(5 minutes)
+2. **Part 1:**  Students will learn about the setup and draw functions, canvas creation, and basic shapes. They will also be introduced to variables for storing particle data..(10 minutes )
+3. **Part 2:**  Designing smoke particles using code. Students will experiment with using ellipses or circles to represent smoke particles. They will use random functions to create a cloud-like effect for the smoke and adjust opacity to make it look realistic..(20 minutes)
+4. **Part 3:**Introduce motion and animation to the smoke particles. Students will learn how to animate the smoke particles by updating their positions and velocities in the draw() loop. They can add a wind effect by changing the particle's horizontal velocity and apply gravity to make the smoke rise..(20 minutes)
+5. **Success!!!**Now the students have created their own animated smoke particles. During the final show, each student can demonstrate their smoke simulation, adjusting wind and gravity to showcase different smoke behaviors.  (recap and final show - 5 minutes)
 
 ### Proposal
 - How will you ensure that every outcome of the workshop varies (i.e., how will you give participants a sense of ownership over their projects)?
