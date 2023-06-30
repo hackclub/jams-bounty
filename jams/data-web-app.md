@@ -15,12 +15,11 @@ _Time estimation:_ 1 Hour
 
 ### Breakdown
 - Set up: Fork the HTML, CSS, and JS replit starter (we can also create a boilerplate), create an account for Firebase
-- Part 1: Create login.html, add the Google OAuth ()
+- Part 1: Create login.html, add Google OAuth (or any other OAuth system, email/pass can be used as well)
 - Part 2: Write JavaScript to execute Firebase Auth Login function on button click
-- Part 3: Duplicate login.html and change the Firebase function to the Firebase Auth Sign Up function
-- Part 4: Create createPost.html and add title, description, and any other input fields
-- Part 5: Write JavaScript to update Firebase Firestore with values if the user is authenticated
-- Part 6: Go to index.html and fetch Firebase Firestore data and generate HTML Elements for each post. 
+- Part 3: Create createPost.html and add title, description, and any other input fields
+- Part 4: Write JavaScript to update Firebase Firestore with values if the user is authenticated
+- Part 5: Go to index.html and fetch Firebase Firestore data and generate HTML Elements for each post. 
 - Success!!!
 
 **Make sure your proposal (similar to the one above) answer these questions about your Jam idea:**
@@ -30,8 +29,9 @@ _Time estimation:_ 1 Hour
   - This project introduces the basics of user authentication and databases which are important tools in web development. User authentication and databases are the foundation of a lot of the apps we use on a daily basis, such as Instagram, YouTube, Reddit, and other social media platforms. Ideally, this jam would be a good transition from the static personal website jam to more dynamic websites and could potentially show new jammers how to use their skills to create interactive apps. 
 - General outline of a club meet doing the Jam
   - 10 min: set-up Replit & Firebase
-  - 10 min: Parts 1-3
-  - 30 min: Parts 4-6
+  - 10 min: Parts 1-2
+  - 20 min: Parts 3-4
+  - 10 min: Part 5
   - 20 min: Time to experiment and personalize the app
 - What Club Members will walk away with (both in terms of knowledge and in terms of product)
   - Club members will walk away with a working website that features a login/signup system and a post management system. Club members could modify fields specific to their idea and modify how posts are loaded. In terms of knowledge, club members would walk away with a basic understanding of user authentication and a document-based database.
