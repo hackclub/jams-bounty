@@ -1,6 +1,8 @@
 
 ### Details:
 
+Name of the app TBD so far!
+
 **Outcome**: Build a app that combines Pokemon + Tamagotchi + exercise! Start out with a starter Pokemon, start walking, convert your steps into Pokedollars, and use that to take care of your Pokemon and evolve them! Oh, and collect more Pokemon as you walk.
 
 **Requirements**: Understanding of React and concepts associated with it, including `fetch`. No prior experience with React Native, Expo, native bundling, etc. - those are all things we talk about in this jam!
