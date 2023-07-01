@@ -28,7 +28,7 @@ _Time estimation:_ 55-60 minutes
 # Q & A
 Q: How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)?
 
-A: At the end of the session, jammers are given a chance to fully customize their game by changing up the assets, adding custom stuff etc...
+A: At the end of the session, there is a customization session where jammers are given a chance to fully customize their game by changing up the assets, adding custom characters, completely changing the behavior of the characters and etc.
 
 ---
 
@@ -40,7 +40,7 @@ A: For people who don't know how to code, this is a godsend, for reference, I ma
 
 Q: What Club Members will walk away with (both in terms of knowledge and in terms of product)
 
-A: A cool game that they can customize easily and a basic understanding on the high level logic behind game development.
+A: A cool game that they can customize easily to share with their friends, a basic understanding on the high level logic behind game development and an understanding of GDevelop so they can take this skill and create their own games.
 
 ---
 
@@ -58,4 +58,4 @@ A: Everything except mobile would probably work fine with GDevelop's web editor.
 
 Q: How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)?
 
-A: A showcase session at the end, letting people demo their own versions of the game.
+A: A showcase session at the end, where anybody that wants to showcase their game are called on and given some time to demo their game, granting people a sense of satisfaction in demoing their game. Maybe we could even do a voting session to determine the best game!
