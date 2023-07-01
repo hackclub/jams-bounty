@@ -11,16 +11,18 @@ _Customization opportunity:_ Customize art of the enemies? Put some weird voice 
 
 _Platform Limitations:_ Browser/computer based game development.
 
-_Time estimation:_ 1-2 hours
+_Time estimation:_ 55-60 minutes
 
 ### Breakdown
 - Set up: Download a GDevelop project with some starter art and code. Sign up for an account over at GDevelop and open the editor.
-1. Basic introduction to GDevelop, it's UI and how it's event blocks work.
-2. Add event blocks to implement spawning of cats (allies).
-3. Add event blocks for a HP system and enemy and allied bases.
-4. Add event blocks for spawning of enemies.
-5. Exporting for different platforms.
-6. Customization time! Change up the art, voicelines to make this game truly yours!
+1. Basic introduction to GDevelop, it's UI and how it's event blocks work. (5 minutes)
+2. Add event blocks to implement spawning of cats (allies). (5 minutes)
+3. Add event blocks for a HP system & enemy/allied bases. (5 minutes)
+4. Add event blocks for spawning of enemies. (5 minutes)
+5. Add event blocks for enemy and allied HP & attack systems. (15 minutes)
+6. Exporting for different platforms. (10 minutes)
+7. Customization time! Change up the art, voicelines to make this game truly yours! (5 minutes)
+8. Showcase session (10 minutes)
 - Profit, you have now got your own game that you can share with anyone and customize for your enjoyment! Replace your friend's face and voice for the enemy?
 
 # Q & A
@@ -44,7 +46,7 @@ A: A cool game that they can customize easily and a basic understanding on the h
 
 Q: What makes this workshop fun or interesting for Club Members?
 
-A: Making their own game!
+A: Letting people make their own cool game regardless of skill level, therefore making this workshop interesting even for people with zero coding skills. Also the sense of accomplishment in exporting your own game in the end after customizing it.
 
 ---
 
