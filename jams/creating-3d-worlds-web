@@ -1,0 +1,54 @@
+# Creating interactive 3D worlds on the web
+
+### Details:
+_Outcome:_ Design 3D models in Spline and implement them in your own web-based interactive 3D world and objects with three.js
+
+_Requirements:_ Replit (web-based IDE), Spline (web-based 3D design software)
+
+_Language used:_ Spline (no-code), HTML/CSS/JS
+
+_Customization opportunity:_ Each jammer can envision their own virtual worlds and characters, design them in Spline with their learned skills, and implement the behaviors and controls with code to their liking.
+
+_Platform Limitations:_ Internet access to Spline and Replit in the browser
+
+_Time estimation:_ 2 Hours (total)
+
+### Breakdown
+**Jam 1: Designing in Spline (1 Hour)**
+- Set up: Jam overview, Spline intro + showing examples, Spline project setup (10 mins)
+- Part 1: Reviewing Spline UI and tools (5 mins)
+- Part 2: Environment + model designing walkthrough (15 mins)
+- Part 3: Free time to design! (30 mins)
+
+**Jam 2: Implementing in Replit (1 Hour)**
+- Set up: Clone Replit starter with three.js set up, prep 3D model(s) in Spline to implement (sample models will also be provided for those who haven't completed Jam 1) (5 mins)
+- Part 1: Importing 3D assets from Spline to three.js (5 mins)
+- Part 2: Reviewing three.js basics and implementing basic renderer (15 mins)
+- Part 3: Show examples for further hacking (see possible extensions), free time (35 mins)
+
+**Possible extensions:**
+- Adding animations to models and triggering them with code
+- Adding controls to move characters around
+- Combine 3D components with HTML/CSS elements
+
+### FAQs
+**How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)?**
+Each jammer can envision and implement their own dream world they'd want to build, whether it's a paradise on the beach, or aboard a sci-fi spaceship, or even their room at home. They'd have full control over the aesthetics of the world and how users interact with it.
+
+**Why should Hack Clubbers care about this project?**
+Virtual worlds are becoming increasingly relevant in how we interact with tech and each other (video games, VR, AR, metaverses, etc.), and it's becoming easier to make and access with browser-based 3D tools.
+
+**General outline of a club meet doing the Jam**
+- Club leader shows cool examples of 3D models and web implementations
+- Everyone shares their ideas for virtual worlds, characters, (lore???), etc., getting people excited for what they're about to make :)
+- Everyone follows along with club leader in setup and using the features of Spline and three.js
+- Free time for hacking, sharing at the end if time permits
+    
+**What Club Members will walk away with (both in terms of knowledge and in terms of product)**
+3D assets designed in Spline, a unique working interactive 3D web app, knowledge & inspiration for designing and implementing 3D models and websites
+
+**What platforms will be supported (i.e. MacOS, Windows, Chromebook, Mobile, Browser, etc)?**
+All platforms with access to a browser
+
+**How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)?**
+Club leaders can come up with their own ideas during the walkthrough portions and can present their own unique models and code implementations.
