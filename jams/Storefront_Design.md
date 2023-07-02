@@ -15,7 +15,7 @@ _Time estimation:_ 50-60 minutes
 
 ### Breakdown
 - Set up: Create a Figma account and create an empty design file.
-- Part 1: Lecture on Figma tools (Masking, Element Customization, Pagination, Layering, ...) while creating an example store (+ Kahoot at the end?).
+- Part 1: Lecture on Figma tools (Masking, Element Customization, Pagination, Layering, ...) while creating an example store.
 - Part 2: Give jammers their own time to develop their own, unique storefront! Hosts will provide support with Figma's tools when needed.
 - Part 3: Give an example presentation - show how the design adapts to different devices and how it's accessible, etc.
 - Jammers will pitch their design to the host and get a chance to win the title of ("Most Popular Storefront")!
@@ -38,7 +38,6 @@ experiment with making design mockups for their products (potential extension if
 
 - **5m**: Setup, get everyone a Figma account and on a blank file
 - **10-15m**: Lecture on Figma's tools and features while making a storefront
-- (optional) **5m**: Kahoot on the things they just learned (for a prize?)
 - **20m**: Jammers group up and make their own storefront, adapting it for accessibility and appeal
 - **15m**: Jammers pitch their store to workshop hosts and others.
 - **5m**: Workshop hosts choose a winner, say what's good about it, and give them an (optional) prize 🎄
