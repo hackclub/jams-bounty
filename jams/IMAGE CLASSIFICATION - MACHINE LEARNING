@@ -5,7 +5,7 @@ We are taking Face Mask Detection as Example!
 
 _Requirements:_ Computer With Internet Access and Web Browser
 
-_Languages used:_ JavaScript
+_Languages used:_ JavaScript , Html , CSS 
 
 _Customization opportunity:_ While we'll explore Face Mask Detection, they have the freedom to train your model to recognize any objects you're interested in. 
 Personalize the user interface and add additional features to enhance the classification experience.
@@ -16,11 +16,13 @@ _Time estimation_: 1 Hour
 
 ### Breakdown
 Here's the breakdown of our exciting journey:
-- Set up: Access the user-friendly Teachable Machine website and create your own image classification project.
-- Part 1: Collect and Prepare Data: Capture images of face masks and examples without face masks to train your model effectively.
-- Part 2: Train Your Model: Utilize the powerful Teachable Machine platform to train your AI model effortlessly.
-- Part 3: Integrate Into Your Web Page: Export your trained model into p5js editor online
+- Set up: Access the user-friendly Teachable Machine website and create your own image classification project. (5 minutes)
+- Part 1: Collect and Prepare Data: Capture images of face masks and examples without face masks to train your model effectively. (15 minutes)
+- Part 2: Train Your Model: Utilize the powerful Teachable Machine platform to train your AI model effortlessly.(10 minutes) 
+- Part 3: Upload the model to the cloud using Teachable Machine after the creation of Model. They will get a link from Teachable Machine at this point. (5 minutes)
+- Part 4: Integrate Into P5.js Starter Code: Export your trained model into p5js editor online. I would be providing starter code where they can just insert their model and see their model run live.This can be tweaked further if the jammer to display whatever text they want to display when something happens like Mask ON and Mask Off. (10 minutes)
 - Congratulations! You now possess a remarkable image classification model running smoothly in your browser, tailored to your specific object of interest.
+- DIY Segment: In this segment, the jammers will quickly train their own Model using their Creative Minds, whatever they wanted to classify. This can be anything from detecting Objects/ Classifying Facial Expression or anything they want to try out.(15-20minutes)
 
 
 - How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)? 
