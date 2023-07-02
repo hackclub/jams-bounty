@@ -25,10 +25,10 @@ How will you allow Club Leaders to add their own project to the Jam presentation
 Club leaders could choose the inspiration for the songs created during the Jam.
   
 General outline: 
-1. Introduction to Tone.js and its capabilities in music production.
-2. Setting up a Replit project with Tone.js library included.
-3. Understanding the basics of music synthesis, including instruments, oscillators, and filters.
-4. Adding beats and rhythms using Tone.js's drum machine or sampler.
-5. Manipulating and modulating sounds with different effects.
-6. Fine-tuning the song by adjusting tempo, volume, and other parameters.
-7. Sharing the created songs within the Jam session.
+1. 5 minutes: Introduction to Tone.js and its capabilities in music production.
+2. 10 minutes: Setting up a Replit project with Tone.js library included.
+3. 5 minutes: Understanding the basics of music synthesis, including instruments, oscillators, and filters.
+4. 10-15 minutes: Adding beats and rhythms using Tone.js's drum machine or sampler.
+5. 10 minutes: Manipulating and modulating sounds with different effects.
+6. 10 minutes Fine-tuning the song by adjusting tempo, volume, and other parameters.
+7. 5 minutes: Sharing the created songs within the Jam session.
