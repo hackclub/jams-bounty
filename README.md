@@ -1,6 +1,6 @@
 # Jams 🫐🍓🍇
 
-**⚠️ DEADLINE FOR PROPOSALS IS JULY 2ND ⚠️**
+**⚠️ DEADLINE FOR PROPOSALS IS JULY 7TH ⚠️**
 
 Teaching coding is hard. Running engaging Hack Club meetings is even harder. That's why, this summer, we want to create an all-new repository of the most incredible coding projects ever! 
 
@@ -16,11 +16,11 @@ A Jam is a real and fun project that can be completed in under 1 hour. It is ver
 
 ### ✅ Here's how to get started:
 *NOTE: We're only accepting 20 Jams in this round*
-1. Propose a Jam by making a pull request by July 2nd
+1. Propose a Jam by making a pull request by July 7th
   - Fork this Repo
   - Open [the jams folder](/jams) and create a new markdown file answering questions in this [example](/jams/example.md)
   - Name the file with the name of your project and make a pull request
-1. Hear back from the team within 48 hours Mon-Fri on whether your proposal is accepted.
+1. Hear back from the team within 48 hours Mon-Fri on a first review of your proposal.
 1. Once accepted, work closely with the team to write the Jam, make a presentation and film a short video by July 19.
 1. Ka-ching💰🪙!
 
