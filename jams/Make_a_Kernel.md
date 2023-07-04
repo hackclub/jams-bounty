@@ -23,7 +23,7 @@ _Time estimation:_ 1 Hour
 7. Show and Tell: Each participant can present their kernel and discuss the modifications they made.
 8. Q&A and Discussion: Address any questions or concerns and have a group discussion about the learnings and challenges faced.
 
-**Now let's answer the questions about this Jam idea:**
+**Questions related to the Jam idea:**
 
 - How will you ensure that every outcome of the workshop varies (i.e. how will you give jammers a sense of ownership over their project)? 
 
