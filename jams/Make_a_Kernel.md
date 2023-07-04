@@ -3,13 +3,13 @@
 ### Details:
 _Outcome:_ Create a simple kernel using Zig programming language that displays a message in VGA text mode.
 
-_Requirements:_ Zig 0.10.1, qemu emulator
+_Requirements:_ Zig 0.10.1, qemu emulator, Linux
 
 _Language used:_ Zig
 
 _Customization opportunity:_ Customize the message or modify the VGA text mode color scheme to create a unique visual style for the kernel.
 
-_Platform Limitations:_ The project can be completed on platforms that support Zig programming language.
+_Platform Limitations:_ The platform has to run Linux, since the kernel is being built onto a Linux-only kernel image
 
 _Time estimation:_ 1 Hour
 
@@ -53,7 +53,7 @@ This workshop offers an exciting opportunity to explore low-level programming, k
 
 - What platforms will be supported (i.e., MacOS, Windows, Chromebook, Mobile, Browser, etc)?
 
-The project can be completed on platforms that support the Zig programming language. This includes platforms such as MacOS, Windows, Linux, and others where Zig is compatible. This project was tested to work fully on Linux and Windows.
+This project can only be followed on Linux
 
 - How will you allow Club Leaders to add their own project to the Jam presentation (giving them a sense of ownership over the meeting)?
 
