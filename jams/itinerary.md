@@ -14,13 +14,13 @@ _Platform Limitations:_ Will work on all browsers
 _Time estimation:_ 65 minutes
 
 ### Breakdown
-- Set up: Clone a starter template for HTML CSS and JS
-- Part 1: Add these inputs: trip destination, trip start date, trip end date 
-- Part 2: Configure OpenAI API and get your API key
-- Part 3: Validate that all inputs are filled in
-- Part 4: Send a request to the OpenAI API, with a custom prompt including all the details. Make sure the repsonse comes back in JSON
-- Part 5: Configure a loading screen to keep the user entertained
-- When results come back, parse the JSON and display the events day-by-day in a list
+- Set up: Clone a starter template for HTML CSS and JS (5 mins)
+- Part 1: Add these inputs: trip destination, trip start date, trip end date (15 min)
+- Part 2: Configure OpenAI API and get your API key (5 min)
+- Part 3: Validate that all inputs are filled in (5 min)
+- Part 4: Send a request to the OpenAI API, with a custom prompt including all the details. Make sure the repsonse comes back in JSON (20 min)
+- Part 5: Configure a loading screen to keep the user entertained (5 min)
+- When results come back, parse the JSON and display the events day-by-day in a list (10 min)
 - Go on your next trip 🏖️🏝️🍹🌞
 
 **Make sure your proposal answer these questions about your Jam idea:**
