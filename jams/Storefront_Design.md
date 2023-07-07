@@ -15,7 +15,7 @@ _Time estimation:_ 50-60 minutes
 
 ### Breakdown
 - Set up: Create a Figma account and create an empty design file.
-- Part 1: Lecture on Figma tools (Masking, Element Customization, Pagination, Layering, ...) while creating an example store.
+- Part 1: Lecture on Figma tools (Element Customization, Frames, ...) while creating an example store.
 - Part 2: Give jammers their own time to develop their own, unique storefront! Hosts will provide support with Figma's tools when needed.
 - Part 3: Give an example presentation - show how the design adapts to different devices and how it's accessible, etc.
 - Jammers will pitch their design to the host and get a chance to win the title of ("Most Popular Storefront")!
