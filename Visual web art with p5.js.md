@@ -7,13 +7,12 @@
 - **Customization opportunity:** Experiment with different algorithms, parameters, and visuals to create a wide variety of motion-based artworks. Each participant can explore their own artistic vision and adjust the level of complexity according to their skills and interests.
 - **Platform Limitations:** none 
 - **Time estimation:** 1 Hour
-
 ### Breakdown
-1. **Set up:** Install the p5.js library by including it in the HTML file with a script tag or using a CDN. Set up a new p5.js project with an HTML canvas element where the smoke particles will be rendered..(5 minutes)
-2. **Part 1:**  Students will learn about the setup and draw functions, canvas creation, and basic shapes. They will also be introduced to variables for storing particle data..(10 minutes )
-3. **Part 2:**  Designing smoke particles using code. Students will experiment with using ellipses or circles to represent smoke particles. They will use random functions to create a cloud-like effect for the smoke and adjust opacity to make it look realistic..(20 minutes)
-4. **Part 3:**Introduce motion and animation to the smoke particles. Students will learn how to animate the smoke particles by updating their positions and velocities in the draw() loop. They can add a wind effect by changing the particle's horizontal velocity and apply gravity to make the smoke rise..(20 minutes)
-5. **Success!!!**Now the students have created their own animated smoke particles. During the final show, each student can demonstrate their smoke simulation, adjusting wind and gravity to showcase different smoke behaviors.  (recap and final show - 5 minutes)
+1. **Set up:** Install the p5.js library by including it in the HTML file with a script tag or using a CDN. Set up a new p5.js project with an HTML canvas element where the smoke particles will be rendered. (5 minutes)
+2. **Part 1:** Students will learn about the setup and draw functions, canvas creation, and basic shapes. They will also be introduced to variables for storing particle data. (10 minutes)
+3. **Part 2:** Designing smoke particles using code. Students will experiment with different shapes, visuals, and techniques to create a wide range of unique particle effects. They can explore using various tools such as rectangles, polygons, bezier curves, or even custom shapes to represent smoke particles. By adjusting parameters like size, color, opacity, and blending modes, they can create diverse particle styles and behaviors. Encourage students to think creatively and explore different combinations of tools and techniques to make their particles stand out. (20 minutes)
+4. **Part 3:** Introduceing motion and animation to the particles. Students will learn how to animate the particles by updating their positions and velocities in the draw loop. They can apply transformations, apply forces, or add additional visual effects to bring their particles to life. By experimenting with different algorithms, forces, and animation techniques, students can create an array of captivating and unique particle animations. (20 minutes)
+5. **Success!!!** Now the students have created their own custom particle effects using p5.js. During the final show, each student can showcase their particle animations, highlighting the different tools, techniques, and creative choices they used to create a diverse range of visual experiences. This showcase will demonstrate the variety and individuality of each participant's particle creations. (Recap and final show - 5 minutes)
 
 ### Proposal
 - How will you ensure that every outcome of the workshop varies (i.e., how will you give participants a sense of ownership over their projects)?
